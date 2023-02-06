@@ -46,7 +46,7 @@
 
 # Backend
 
-<a href="https://pub.dev/packages/json_rest_server">json_rest_serverr</a></p>
+<a href="https://pub.dev/packages/json_rest_server">json_rest_server</a></p>
 
 <a href="https://www.postman.com/">postman</a></p>
 
