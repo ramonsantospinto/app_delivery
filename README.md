@@ -15,3 +15,8 @@
     <span>  </span>
     <img width="200" src="https://i.ibb.co/ZhhDFBt/app6-resized.png" alt="app-vakinha">
 </div>
+
+# Tecnologias utilizadas
+
+- Dart
+- Flutter
