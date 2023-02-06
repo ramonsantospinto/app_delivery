@@ -22,23 +22,23 @@
 <a href="https://dart.dev/">Dart</a></p>
 <a href="https://flutter.dev/">Flutter</a></p>
 
-# Utilizei também alguns pacotes
+# Utilizei também alguns packages
 
 <a href="https://pub.dev/">pub.dev</a></p>
 
-* • provider
-* • intl
-* • loading_animation_widget
-* • top_snackbar_flutter
-* • bloc
-* • flutter_bloc
-* • equatable
-* • match
-* • dart_code_metrics
-* • auto_size_text
-* • shared_preferences
-* • validatorless
-* • flutter_awesome_select
-* • flutter_lints
-* • build_runner
-* • match_generator
+* provider
+* intl
+* loading_animation_widget
+* top_snackbar_flutter
+* bloc
+* flutter_bloc
+* equatable
+* match
+* dart_code_metrics
+* auto_size_text
+* shared_preferences
+* validatorless
+* flutter_awesome_select
+* flutter_lints
+* build_runner
+* match_generator
