@@ -18,5 +18,4 @@
 
 # Tecnologias utilizadas
 
-- Dart
-- Flutter
+<a href="[https://www.homehost.com.br](https://dart.dev/)/">Dart</a></p>
