@@ -18,5 +18,5 @@
 
 # Tecnologias utilizadas
 
-p>Dart 
-<a href="https://www.homehost.com.br/">HomeHost</a></p>
+
+<a href="https://dart.dev/">Dart</a></p>
