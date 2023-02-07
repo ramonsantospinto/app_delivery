@@ -13,7 +13,7 @@
     <span>  </span>
     <img width="200" src="https://i.ibb.co/RSvSHdd/appvak5-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
- <img width="200" src="https://i.ibb.co/YZvdsp1/app6vak-removebg-preview.png" alt="app-vakinha">
+ <img width="200" src="https://i.ibb.co/y4P1K5L/app6vak-removebg-preview.png" alt="app-vakinha">
   <span>  </span>
 </div>
 
