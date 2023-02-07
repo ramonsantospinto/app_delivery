@@ -23,9 +23,6 @@
 
 <a href="https://dart.dev/" target="_blank">Dart</a>
 
-<a href="https://www.google.com" target="_blank">Ir para o Google em nova página</a>
-
-
 <a href="https://flutter.dev/" target="_blank">Flutter</a>
 
 # Utilizei também alguns packages
