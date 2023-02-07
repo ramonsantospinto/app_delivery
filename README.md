@@ -2,7 +2,7 @@
 
 
 <div class="box">
-  <img width="200" src="https://uploaddeimagens.com.br/images/004/332/848/original/appvak1.png?1675778268" alt="app-vakinha"> 
+  <img width="200" src="https://i.ibb.co/fd8wLZq/appvak1.png" alt="app-vakinha"> 
     <span>  </span>
     <img width="200" src="https://i.ibb.co/b5N0H7p/appvak2-1.png" alt="app-vakinha"> 
     <span>  </span>
