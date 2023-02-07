@@ -4,16 +4,16 @@
 <div class="box">
   <img width="200" src="https://uploaddeimagens.com.br/images/004/332/848/original/appvak1.png?1675778268" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/SyNMMTX/app2-resized.png" alt="app-vakinha"> 
+    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/850/original/appvak2.png?1675778310" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/dgbB4HW/app3-resized.png" alt="app-vakinha">
+    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/853/original/appvak3.png?1675778352" alt="app-vakinha">
 </div>
 <div class="box">
-  <img width="200" src="https://i.ibb.co/6HXkJbd/app4-resized.png" alt="app-vakinha"> 
+  <img width="200" src="https://uploaddeimagens.com.br/images/004/332/854/original/appvak4.png?1675778383" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/fkX0dJL/app5-resized.png" alt="app-vakinha"> 
+    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/855/original/appvak5.png?1675778411" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/ZhhDFBt/app6-resized.png" alt="app-vakinha">
+    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/856/original/appvak6.png?1675778442" alt="app-vakinha">
 </div>
 
 # Tecnologias utilizadas
