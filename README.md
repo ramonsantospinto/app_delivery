@@ -2,18 +2,18 @@
 
 
 <div class="box">
-  <img width="200" src="https://i.ibb.co/3YBmhTh/appvak1.png" alt="app-vakinha"> 
+  <img width="200" src="https://i.ibb.co/b65h5YL/appvak1-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/936z8MG/appvak2.png" alt="app-vakinha"> 
+    <img width="200" src="https://i.ibb.co/q0PBvsP/appvak2-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/hMhTq8h/appvak3.png" alt="app-vakinha">
+    <img width="200" src="https://i.ibb.co/WVPSt50/appvak3-removebg-preview.png" alt="app-vakinha">
 </div>
 <div class="box">
-  <img width="200" src="https://i.ibb.co/5x5LdNG/appvak4.png" alt="app-vakinha"> 
+  <img width="200" src="https://i.ibb.co/q1j6LTz/appvak4-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://i.ibb.co/Yk8t6fF/appvak5.png" alt="app-vakinha"> 
+    <img width="200" src="https://i.ibb.co/bLqyR78/appvak5-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
- <img width="200" src="https://i.ibb.co/TMnPFmZ/appvak6.png" alt="app-vakinha">
+ <img width="200" src="https://i.ibb.co/qjLVnsz/appvak6-removebg-preview.png" alt="app-vakinha">
   <span>  </span>
 </div>
 
