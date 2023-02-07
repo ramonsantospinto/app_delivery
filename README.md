@@ -22,8 +22,6 @@
 # Tecnologias utilizadas
 
 <a href="https://dart.dev/" target="_blank">Dart</a>
-<p>Confira o <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
-
 
 <a href="https://flutter.dev/" target="_blank">Flutter</a>
 
