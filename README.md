@@ -11,9 +11,9 @@
 <div class="box">
   <img width="200" src="https://i.ibb.co/BCCvXGP/appvak4-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/855/original/appvak5.png?1675778411" alt="app-vakinha"> 
+    <img width="200" src="https://i.ibb.co/RSvSHdd/appvak5-removebg-preview.png" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/856/original/appvak6.png?1675778442" alt="app-vakinha">
+    <img width="200" src="https://i.ibb.co/t2zXzvh/appvak6-removebg-preview.png" alt="app-vakinha">
 </div>
 
 # Tecnologias utilizadas
