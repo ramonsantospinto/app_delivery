@@ -21,9 +21,8 @@
 
 # Tecnologias utilizadas
 
-
-<a href="https://dart.dev/">Dart</a></p>
-<a href="https://flutter.dev/">Flutter</a></p>
+<a href="https://dart.dev/" target="_blank">Dart</a>
+<a href="https://flutter.dev/" target="_blank">Flutter</a>
 
 # Utilizei também alguns packages
 
