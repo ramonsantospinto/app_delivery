@@ -6,7 +6,7 @@
     <span>  </span>
     <img width="200" src="https://i.ibb.co/nDJ1LqV/appvak2.png" alt="app-vakinha"> 
     <span>  </span>
-    <img width="200" src="https://uploaddeimagens.com.br/images/004/332/853/original/appvak3.png?1675778352" alt="app-vakinha">
+    <img width="200" src="https://i.ibb.co/F7GM1vK/appvak3.png" alt="app-vakinha">
 </div>
 <div class="box">
   <img width="200" src="https://uploaddeimagens.com.br/images/004/332/854/original/appvak4.png?1675778383" alt="app-vakinha"> 
