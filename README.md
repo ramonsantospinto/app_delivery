@@ -25,7 +25,7 @@
 
 <a href="https://flutter.dev/" target="_blank">Flutter</a>
 
-# Pacotes
+# Packages
 
 <a href="https://pub.dev/">pub.dev</a></p>
 
