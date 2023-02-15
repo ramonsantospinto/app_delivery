@@ -1,4 +1,6 @@
 # App Vakinha Burguer
+<div style="text-align:center">Esse texto vai ficar centralizado.
+<p>Este parágrafo também.</p></div>
 
 
 <div class="box">
