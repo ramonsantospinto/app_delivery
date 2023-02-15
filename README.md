@@ -19,7 +19,7 @@
 
 
 
-# Language
+# Technologys
 
 <a href="https://dart.dev/" target="_blank">Dart</a>
 
