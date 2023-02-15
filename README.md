@@ -1,7 +1,4 @@
 # App Vakinha Burguer
-<div style="text-align:center">Esse texto vai ficar centralizado.
-<p>Este parágrafo também.</p></div>
-
 
 <div class="box">
   <img width="200" src="https://i.ibb.co/b65h5YL/appvak1-removebg-preview.png" alt="app-vakinha"> 
