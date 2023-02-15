@@ -55,7 +55,7 @@
 
 <a href="https://pub.dev/packages/env">env</a></p>
 
-# Autor
+# Author
 
 <a href="https://github.com/ramonsantospinto">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89648821?v=4" width="100px;" alt=""/>
